@@ -1,0 +1,55 @@
+#baner{
+    display: block;
+    background-color:#0D1170;
+    color: #FAFF04;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: xx-large;
+}
+
+#pie{
+    display: block;
+    background-color:#0D1170;
+    color: #FAFF04;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#cuerpo{
+    width: 80%;
+    
+}
+
+#imagen1{
+    width: 300px;
+    height: 300px;
+}
+
+#imagen2{
+width: 20px;
+height: 20px;
+float: right;
+/*background-color: #1DA1F2;*/
+margin-right: 5px;
+}
+
+#imagen3{
+width: 20px;
+height: 20px;
+float: right;
+/*background-color: #1877F2;*/
+margin-right: 5px;
+}
+
+#imagen4{
+width: 20px;
+height: 20px;
+float: right;
+/*background-color: #E4405F;*/
+margin-right: 5px;
+}
